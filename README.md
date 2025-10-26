@@ -8,7 +8,7 @@ A desktop application that automatically creates ebooks with word meaning hints 
 
 - **Simple GUI** built with PyQt6
 - **Multi-format support**: EPUB, AZW3, PDF
-- **Adjustable hint levels** (1-10)
+- **Adjustable hint levels** (1-5)
 - **Batch processing** - generate multiple formats at once
 - **Real-time progress** tracking
 
