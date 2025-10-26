@@ -1,2 +1,2 @@
 # wordwisecreator-gui
-GUI version of wordwisecreator
+GUI version of xnohat/wordwisecreator 
